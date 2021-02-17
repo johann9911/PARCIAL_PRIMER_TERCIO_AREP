@@ -24,6 +24,6 @@ mcn javadoc:javadoc o mvn javadoc:jar (generar jar)
 Para probrar el programa localmente, ejecutar y dirigirse a  **http://localhost:35000/**
 
 ## Enlace Heroku
-[![Heroku](https://heroku-badge.herokuapp.com/?app=heroku-badge)](https://safe-beach-16400.herokuapp.com/clima?lugar=bogota)
+https://safe-beach-16400.herokuapp.com/clima?lugar=bogota
 ## Licencia
 Ver licencia en LICENCE.txt para más detalles.
